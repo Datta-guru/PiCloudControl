@@ -1,3 +1,7 @@
+Pi Cloud Control 
+
+home automation using raspberry pi and different sensor accessing using web interface
+
 connection for ssh
 
 ssh-keygen -R <your ip>
